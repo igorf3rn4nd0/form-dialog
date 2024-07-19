@@ -1,6 +1,6 @@
-# vue-project
+# Vue3 Beercss Playground
 
-This template should help get you started developing with Vue 3 in Vite.
+A repository for developing, testing, and refining UI components using Vue 3 and BeerCSS.
 
 ## Recommended IDE Setup
 
